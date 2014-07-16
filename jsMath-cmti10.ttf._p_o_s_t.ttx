@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="-14.0"/>
+    <underlinePosition value="-100"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="NULL"/>
+      <psName name="u00B0"/>
+      <psName name="u00B5"/>
+      <psName name="u00B6"/>
+      <psName name="u00B7"/>
+      <psName name="u00C0"/>
+      <psName name="u00C1"/>
+      <psName name="u00C2"/>
+      <psName name="u00C3"/>
+      <psName name="u00C4"/>
+      <psName name="u00C5"/>
+      <psName name="u00C6"/>
+      <psName name="u00C7"/>
+      <psName name="u00C8"/>
+      <psName name="u00C9"/>
+      <psName name="u00CA"/>
+      <psName name="u00CB"/>
+      <psName name="u00CC"/>
+      <psName name="u00CD"/>
+      <psName name="u00CE"/>
+      <psName name="u00CF"/>
+      <psName name="u00D1"/>
+      <psName name="u00D2"/>
+      <psName name="u00D3"/>
+      <psName name="u00D4"/>
+      <psName name="u00D5"/>
+      <psName name="u00D6"/>
+      <psName name="u00D8"/>
+      <psName name="u00D9"/>
+      <psName name="u00DA"/>
+      <psName name="u00DB"/>
+      <psName name="u00DC"/>
+      <psName name="u00DF"/>
+      <psName name="u00FF"/>
+    </extraNames>
+  </post>
+
+</ttFont>
